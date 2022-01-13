@@ -1,3 +1,4 @@
+
 package com.springboot.bankapp.model;
 
 import javax.persistence.GeneratedValue;
